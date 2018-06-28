@@ -1,0 +1,16 @@
+{
+  "port": 3006,
+  "nickname": "Development Uncrawler",
+  "neo4j": {
+    "enable": true,
+    "url": "bolt://localhost",
+    "user": "neo4j",
+    "pass": ""
+  },
+  "librarian": {
+    "enable": true,
+    "host": "http://localhost:3020",
+    "username": "botuser",
+    "password": ""
+  }
+}
