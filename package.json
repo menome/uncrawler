@@ -9,10 +9,7 @@
     "forever": "latest",
     "express": "latest",
     "async": "^2.6.0",
-    "request": "latest",
-    "request-promise": "^4.2.2",
-    "webdav": "^1.5.2",
-    "@menome/botframework": "^2.1.10"
+    "@menome/botframework": "^2.1.11"
   },
   "devDependencies": {
     "mocha": "^3.4.2",
